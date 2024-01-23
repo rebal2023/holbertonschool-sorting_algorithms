@@ -29,8 +29,8 @@ print_array(array, size);
 
 /**
 * swap - function that swap elements
-* @vl_one: first element
-* @vl_two: second element
+* @el_one: first element
+* @el_two: second element
 * Return: 0
 */
 void swap(int *el_one, int *el_two)
