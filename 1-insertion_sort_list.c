@@ -22,7 +22,7 @@ else
 }
 
 /**
-* insertion_sort_list - sorts doubly linked list of int in Asc order (Insertion sort algorithm)
+* insertion_sort_list - sorts doubly linked list of int in ascending order
 * @list: head node of the linked list
 */
 void insertion_sort_list(listint_t **list)
