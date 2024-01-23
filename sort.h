@@ -23,4 +23,5 @@ void swap(int *el_one, int *el_two);
 void print_array(const int *array, size_t size);
 
 void insertion_sort_list(listint_t **list);
+void print_list(const listint_t *list);
 #endif
