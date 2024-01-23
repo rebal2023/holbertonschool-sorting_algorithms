@@ -21,4 +21,6 @@ struct listint_s *next;
 void bubble_sort(int *array, size_t size);
 void swap(int *el_one, int *el_two);
 void print_array(const int *array, size_t size);
+
+void insertion_sort_list(listint_t **list);
 #endif
